@@ -1,0 +1,29 @@
+{
+  "name": "belajar-ci-res",
+  "version": "1.0.0",
+  "description": "Belajar REST CI",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffadilaputra/sample-codeigniter-rest.git"
+  },
+  "keywords": [
+    "PHP",
+    "Codeigniter",
+    "Angular"
+  ],
+  "author": "Ivan Fadila Putra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffadilaputra/sample-codeigniter-rest/issues"
+  },
+  "homepage": "https://github.com/ffadilaputra/sample-codeigniter-rest#readme",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "jquery": "^3.2.1",
+    "semantic-ui": "^2.2.11"
+  }
+}
